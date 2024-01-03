@@ -31,4 +31,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the GPL-3.0 license - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GPL-3.0 license - see the [LICENSE.md](https://github.com/trixxmanaty/adzuna-jobs-integration/blob/main/LICENSE) file for details.
