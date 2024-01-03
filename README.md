@@ -1,6 +1,6 @@
 # Adzuna Jobs Integration for WordPress
 
-This WordPress plugin integrates job listings from Adzuna into your WordPress site, allowing users to search for and view job opportunities.
+This simple WordPress plugin integrates job listings from Adzuna into your WordPress site, allowing users to search for and view job opportunities.
 
 ## Prerequisites
 
